@@ -1,0 +1,18 @@
+name = "1w"
+main = "server.ts"
+compatibility_date = "2026-05-18"
+
+routes = [
+  { pattern = "play.lnkx.space", custom_domain = true }
+]
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+
+[vars]
+ADMIN_PASSWORD = "overload"
+
+[[kv_namespaces]]
+binding = "STATS_DB"
+id = "4bc751088a7342e8a2540e01601fd837"
