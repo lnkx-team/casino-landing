@@ -7,6 +7,10 @@
 </p>
 
 ---
+<h1 align="center">
+  <img width="480" height="854" alt="image" src="https://github.com/user-attachments/assets/20364a5e-c460-4d52-abc3-e7d2560fd3fe" />
+</h1>
+---
 
 ## 📖 О проекте
 
